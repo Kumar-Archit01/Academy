@@ -1,5 +1,6 @@
 1)ARITHMETIC OPERATORS 
- public class ArithmeticOperators {
+ 
+public class ArithmeticOperators {
   public static void main(String[] args) {
   int a = 15, b = 4;
  
@@ -12,7 +13,8 @@
   }
 
 2)BITWISE OPERATORS
-  public class BitwiseOperators {
+  
+public class BitwiseOperators {
   public static void main(String[] args) {
   int a = 5, b = 3;  // 5 = 0101, 3 = 0011
   System.out.println("a & b = " + (a & b)); // AND
@@ -26,7 +28,8 @@
   }
 
 3)RELATIONAL OPERATORS
-  public class RelationalOperators {
+  
+public class RelationalOperators {
   public static void main(String[] args) {
   int x = 10, y = 20;
   System.out.println("x == y: " + (x == y));
@@ -38,7 +41,8 @@
   }
   }
 4)BOOLEAN LOGICAL OPERATORS
- public class BooleanLogicalOperators {
+ 
+public class BooleanLogicalOperators {
     public static void main(String[] args) {
         boolean p = true, q = false;  // Added space after "boolean"
         System.out.println("p && q = " + (p && q)); // Logical AND
@@ -48,7 +52,8 @@
 }
 
 5)THE ? : (TERNARY) OPERATOR
-  public class TernaryOperator {
+  
+public class TernaryOperator {
   public static void main(String[] args) {
   int a = 10, b = 20;
   int max = (a > b) ? a : b;  // If a > b then max = a, else max = b
@@ -57,7 +62,8 @@
   }
 
 6)OPERATOR PRECEDENCE USING PARENTHESES
-  public class OperatorPrecedence {
+  
+public class OperatorPrecedence {
   public static void main(String[] args) {
   int result = 10 + 5 * 2;    // Multiplication has higher precedence than addition
   System.out.println("10 + 5 * 2 = " + result);
@@ -68,7 +74,8 @@
 
 7)CONTROL STATEMENTS: JAVA’S SELECTION / 
 CONDITIONAL STATEMENTS
-  public class IfElseDemo {
+  
+public class IfElseDemo {
   public static void main(String[] args) {
   int num= 10;
   if (num% 2 == 0) {
@@ -80,7 +87,8 @@ System.out.println(num + " is Even");
   }
   }
 8)MULTIPLE IF-ELSE (NORMAL WAY)
- public class MultipleIfElse {
+ 
+public class MultipleIfElse {
  public static void main(String[] args) {
  int marks = 72;
  if (marks >= 90) {
@@ -97,7 +105,8 @@ System.out.println(num + " is Even");
 
 9)MULTIPLE IF-ELSE (SINGLE LINE USING TERNARY 
 OPERATOR)
-  public class MultipleIfElseTernary {
+  
+public class MultipleIfElseTernary {
   public static void main(String[] args) {
   int marks = 72;
   String grade = (marks >= 90) ? "A" :
@@ -107,16 +116,20 @@ OPERATOR)
   }
   }
 10)ITERATION (LOOPING) STATEMENTS
- (a) for loop
-  public class ForLoopDemo {
+ 
+(a) for loop
+  
+public class ForLoopDemo {
   public static void main(String[] args) {
   for (int i= 1; i <= 5; i++) {
   }
   }
   }
  System.out.println("Count: " + i);
+
 (b) while loop
-  public class WhileLoopDemo {
+  
+public class WhileLoopDemo {
     public static void main(String[] args) {
         int i = 1;
         while (i <= 5) {
@@ -125,8 +138,10 @@ OPERATOR)
         }
     }
 }
+
 (c) do-while loop
-  public class DoWhileDemo {
+  
+public class DoWhileDemo {
   public static void main(String[] args) {
   int i= 1;
   do {
@@ -137,8 +152,10 @@ OPERATOR)
   }
   }
 11)JUMP STATEMENTS
- (a) break
-  public class BreakDemo {
+ 
+(a) break
+  
+public class BreakDemo {
     public static void main(String[] args) {
         for (int i = 1; i <= 10; i++) {
             if (i == 5) {
@@ -148,8 +165,10 @@ OPERATOR)
         }
     }
 }
+
 (b) continue
-  public class ContinueDemo {
+  
+public class ContinueDemo {
     public static void main(String[] args) {
         for (int i = 1; i <= 5; i++) {
             if (i == 3) {
@@ -159,8 +178,10 @@ OPERATOR)
         }
     }
 }
+
 (c) return
- public class ReturnDemo {
+ 
+public class ReturnDemo {
     public static void main(String[] args) {
         System.out.println("Before return");
         if (true) return; // exits method
