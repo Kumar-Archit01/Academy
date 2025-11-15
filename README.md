@@ -1,5 +1,7 @@
 Module-1
+
 1)Program to add two numbers.
+
 <img width="362" height="100" alt="Screenshot 2025-11-15 233009" src="https://github.com/user-attachments/assets/e2683c21-c9f9-4116-9641-ecdd3f64e5aa" />
 
 2)Program to Check if a Number is Even or Odd
@@ -49,3 +51,71 @@ Module-1
 <img width="378" height="230" alt="Screenshot 2025-11-15 234311" src="https://github.com/user-attachments/assets/4fc3ccd9-7bb4-4113-a00a-78b9265ff545" />
 
 MODULE-2
+
+1) Arithmetic Operators
+
+![WhatsApp Image 2025-11-16 at 00 08 23_657999f7](https://github.com/user-attachments/assets/d1b77ea4-4e3a-4702-a13c-260d8ff76063)
+
+2) Bitwise Operators
+
+![WhatsApp Image 2025-11-16 at 00 08 45_bcef860d](https://github.com/user-attachments/assets/e3d683aa-2cd3-44b1-b20e-2f848c74a8bc)
+
+3) Relational Operators
+
+![WhatsApp Image 2025-11-16 at 00 09 14_f076cc2f](https://github.com/user-attachments/assets/4c518c9c-8242-4d87-8c4c-1a96249d04e3)
+
+4) Boolean Logical Operators
+
+![WhatsApp Image 2025-11-16 at 00 09 29_d1d075c6](https://github.com/user-attachments/assets/c4668eb0-92e2-4663-9b72-a4cde6ca7bf1)
+
+5) Ternary Operator
+
+<img width="415" height="150" alt="image" src="https://github.com/user-attachments/assets/825ca3d5-bd63-489e-b286-058641358913" />
+
+6) Operator Precedence
+
+![WhatsApp Image 2025-11-16 at 00 48 13_832c80d8](https://github.com/user-attachments/assets/cddfd332-0b45-4140-bfaf-f41d092b49df)
+
+7) If-Else Statements
+
+![WhatsApp Image 2025-11-16 at 00 49 26_6eaf9077](https://github.com/user-attachments/assets/98983aa1-854e-4ec8-85e3-ee13629e83fc)
+
+8) Multiple If-Else
+
+
+![WhatsApp Image 2025-11-16 at 00 11 01_2e0af7b9](https://github.com/user-attachments/assets/a5368aed-08d1-4623-b34d-cbddd2784402)
+
+9) Multiple If-Else with Ternary
+
+
+![WhatsApp Image 2025-11-16 at 00 11 17_c09b2056](https://github.com/user-attachments/assets/8917aa29-c4ca-4395-b19c-dbe551a6510b)
+
+10) Loops
+
+    - for loop
+
+     ![WhatsApp Image 2025-11-16 at 00 11 30_5126b5ab](https://github.com/user-attachments/assets/6eaaf7af-597c-4a2c-bbc4-f3774334be02)
+
+    - while loop
+
+    ![WhatsApp Image 2025-11-16 at 00 11 43_e1f438e7](https://github.com/user-attachments/assets/8890fdad-975c-45bf-9150-a24b18a0a89d)
+
+    - do-while loop
+
+     ![WhatsApp Image 2025-11-16 at 00 11 54_8fc3acaa](https://github.com/user-attachments/assets/4b4b1a12-af7e-4972-b1a0-d27ed43129e7)
+
+12) Jump Statements
+
+    - break
+
+    ![WhatsApp Image 2025-11-16 at 00 12 10_dc612f8c](https://github.com/user-attachments/assets/46f3be89-f65a-42df-a8da-d01d5236150f)
+
+    - continue
+
+     ![WhatsApp Image 2025-11-16 at 00 12 29_793305fa](https://github.com/user-attachments/assets/4392beec-ecc8-47b9-bb83-bde5fd8f3a57)
+
+    - return
+
+      ![WhatsApp Image 2025-11-16 at 00 12 47_03de5ea7](https://github.com/user-attachments/assets/dd55404a-3d50-4897-9186-0d6706939450)
+
+
