@@ -218,6 +218,18 @@ Module-4
 
 ![WhatsApp Image 2025-11-16 at 01 46 13_b710108e](https://github.com/user-attachments/assets/e2d900f3-40ae-4ecc-9a0c-9f6e2abe8de7)
 
+CODE TEST:-
+
+1) Write a Java program to divide two numbers entered by the user.Use try–catch to handle ArithmeticException (divide by zero)
+
+ <img width="401" height="150" alt="Screenshot 2025-11-27 235707" src="https://github.com/user-attachments/assets/718293f6-089b-45aa-98d9-13b408f85d7f" />
+  
+2) Create:Parent class Product with a constructor that sets productId,Subclass Electronics with warranty and its own showDetails()
+Use super() to call parent constructor and super.showDetails() inside overridden method.
+
+<img width="383" height="162" alt="Screenshot 2025-11-27 235844" src="https://github.com/user-attachments/assets/4c876a6a-ec7e-43b4-aa70-b44e9e23553d" />
+
+
 
    
 
